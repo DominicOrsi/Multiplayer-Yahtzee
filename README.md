@@ -10,6 +10,11 @@ Team members: Cameron Williamson, Conner Diede, Dominic Orsi, Ryan Gavino
 
 This is a simple Java Swing implementation of a game of Yahtzee.
 
+### Gameplay Images
+
+<p align="center"><img src="/images/home-screen.png"  alt="home screen" width="70%> <img src="/images/main-screen.png"  alt="main screen" width="70%></p> 
+
+
 ## Rules of Yahtzee
 
 Source: The Yahtzee rulebook
