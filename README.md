@@ -10,7 +10,7 @@ This is a simple Java Swing implementation of a game of Yahtzee with multiplayer
 
 ### Gameplay Images
 
-<p align="center"><img src="/images/home-screen.png" alt="home screen" width="70%"> <img src="/images/dice-select.png" alt="dice selection screen" width="90%">  <img src="/images/game-over-screen.png" alt="game over screen" width="80%"> </p>
+<p align="center"><img src="/images/home-screen.png" alt="home screen" width="70%"> <img src="/images/dice-select-screen.png" alt="dice selection screen" width="90%">  <img src="/images/game-over-screen.png" alt="game over screen" width="80%"> </p>
 
 ## Rules of Yahtzee
 
