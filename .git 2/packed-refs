@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+ea2f1e50c0d9829dd742e265ca323bd3daa649db refs/remotes/origin/cdeide
+37bdd5b789b32053a7e8e3235a073cd9675ffb95 refs/remotes/origin/cwilliamson
+c356a224dd3cd237d035c01ad4b11ca3180feb42 refs/remotes/origin/dev
+738c2c5b4983b278211dc47ee271451377771538 refs/remotes/origin/handSize
+f07afb94466b781485546e98c125f6a2f126b46e refs/remotes/origin/main
+c1feb400d3a4872695f20d1b1b20c21847c4ae48 refs/remotes/origin/removeLintTest
+632d3e60047cdfa73c14439fc962a448ab7bf0f6 refs/remotes/origin/rgavino
