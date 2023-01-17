@@ -1,19 +1,16 @@
 # Final Full Yahtzee Game Team Project
 
-[![Yahtzee Homework Testing](https://github.com/GU-2021-Fall-CPSC224/finalyahtzee-java-the-hutt/actions/workflows/mainBuildTest.yml/badge.svg?branch=dev)](https://github.com/GU-2021-Fall-CPSC224/finalyahtzee-java-the-hutt/actions/workflows/mainBuildTest.yml)
-
 Final Team project for team: Java The Hutt
 
 Team members: Cameron Williamson, Conner Diede, Dominic Orsi, Ryan Gavino
 
 ## Description
 
-This is a simple Java Swing implementation of a game of Yahtzee.
+This is a simple Java Swing implementation of a game of Yahtzee with multiplayer.
 
 ### Gameplay Images
 
-<p align="center"><img src="/images/home-screen.png"  alt="home screen" width="70%> <img src="/images/main-screen.png"  alt="main screen" width="70%></p> 
-
+<p align="center"><img src="/images/home-screen.png" alt="home screen" width="70%"> <img src="/images/dice-select.png" alt="dice selection screen" width="90%">  <img src="/images/game-over-screen.png" alt="game over screen" width="80%"> </p>
 
 ## Rules of Yahtzee
 
